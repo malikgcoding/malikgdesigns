@@ -4,7 +4,6 @@
 
 <div align="center">
   &nbsp;
-  <img align="right" height="150" src="https://cdn.myportfolio.com/ccc48788-aac1-4f8e-9bac-4700700e208d/559f0e25-8978-46f0-bf06-71d792cb15b7_rw_1200.png?h=30665553162a7352fde38b6945528b03"  />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=malikgdesigns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikgdesigns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
